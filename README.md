@@ -10,6 +10,6 @@ pip3 install -r requirements.txt
 ## Usage
 
 ```python
-uvicorn main:app --reload
+uvicorn api:app --reload
 ```
 
